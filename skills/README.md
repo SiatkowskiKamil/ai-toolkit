@@ -2,6 +2,7 @@
 
 | Skill | Do czego |
 |---|---|
+| [`przeglad-github/`](przeglad-github/) | przegląd i porządkowanie repozytoriów: sekrety, śmieci, README, spójność nazw |
 | [`przyklad-skilla/`](przyklad-skilla/) | szablon — skopiuj folder przy dodawaniu nowego |
 
 ## Format

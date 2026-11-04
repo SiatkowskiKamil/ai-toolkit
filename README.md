@@ -1,7 +1,7 @@
 # ai-toolkit
 
-Prompty i skille do pracy z Claude, których faktycznie używam. Każdy z notatką,
-kiedy i po co — bo prompt bez kontekstu jest po miesiącu bezużyteczny.
+Prompty i skille do pracy z Claude, których faktycznie używam, każdy z notatką,
+kiedy i do czego był wykorzystywany.
 
 ```
 prompts/   pojedyncze prompty, jeden plik = jeden prompt

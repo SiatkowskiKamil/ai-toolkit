@@ -6,7 +6,7 @@ notatka, do czego tego użyłem i co z tego wyszło.
 
 | Co | Autor | Do czego mi się przydało |
 |---|---|---|
-| [ponytail](https://github.com/DietrichGebert/ponytail) | Dietrich Gebert | Plugin do Claude Code, który hamuje dopisywanie zbędnego kodu: każe najpierw sięgnąć po bibliotekę standardową i natywne funkcje, a każdy skrót oznacza komentarzem `ponytail:`. Instalacja (dwa osobne polecenia w Claude Code, wymaga `node` w PATH):<br>`/plugin marketplace add DietrichGebert/ponytail`<br>`/plugin install ponytail@ponytail`<br>Jeszcze nie używałem przy własnym zadaniu — uzupełnię, jak się sprawdził. |
+| [ponytail](https://github.com/DietrichGebert/ponytail) | Dietrich Gebert | Plugin do Claude Code, który hamuje dopisywanie zbędnego kodu: każe najpierw sięgnąć po bibliotekę standardową i natywne funkcje, a każdy skrót oznacza komentarzem `ponytail:`. Instalacja (dwa osobne polecenia w Claude Code, wymaga `node` w PATH):<br>`/plugin marketplace add DietrichGebert/ponytail`<br>`/plugin install ponytail@ponytail`<br>W praktyce kodu faktycznie powstaje mniej, a ponieważ każda kolejna iteracja pracuje na mniejszym kodzie, realnie spada też zużycie tokenów. |
 
 ## Jak to uzupełniam
 
